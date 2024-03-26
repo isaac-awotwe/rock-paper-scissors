@@ -7,7 +7,7 @@ Once the user make sa choice, they would see a photo of their choice and also a 
 The result of the game (win, lose, or draw) is determined by a comparison between the user's choice and the computer's randomized choice.
 We get the "computer" to play this game with us by using Python randomization.
 
-The rules of the game which can be found on the [World Rock Paper Scissors Association website] (https://wrpsa.com/), and summarizessummarizes as follow:
+The rules of the game which can be found on the [World Rock Paper Scissors Association website](https://wrpsa.com/), and summarizessummarizes as follow:
 1. If both the user and the computer choose the same item, it's a draw game.
 2. The rock beats scissors (by crushing the scissors).
 3. Paper beats rock by covering the rock.
