@@ -38,7 +38,6 @@ user_choice = int(input("What do you choose? Type 0 for Rock, 1 for Paper, and 2
 
 
 try:
-
     print(f"You chose {rps_choice_list[user_choice]}:")
     print(ascii_arts[user_choice])
 
