@@ -38,10 +38,10 @@ if st.session_state.stage >=2:
 if st.session_state.stage >=3:
     try:
         st.markdown(f"You chose {rps_choice_list[int(user_choice)]}:")
-        st.image(images[int(user_choice)])
+        #st.image(images[int(user_choice)])
 
         st.markdown(f"Computer chose {rps_choice_list[computer_choice]}:")
-        st.image(images[computer_choice])
+        #st.image(images[computer_choice])
 
         
         if int(user_choice) == 0:
